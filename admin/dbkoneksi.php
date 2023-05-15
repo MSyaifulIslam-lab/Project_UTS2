@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$db = 'mang ea';
-$user = 'root';
-$pass = '';
+$db = 'db_msya22143ti';
+$user = 'msya22143ti';
+$pass = '18140110222143';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";

@@ -1,6 +1,6 @@
 <?php
-include_once 'templates/Top.php';
-include_once 'templates/Sidebar.php';
+include_once 'Templates/top.php';
+include_once 'Templates/sidebar.php';
 ?>
 
 <div class="content-wrapper">
@@ -103,6 +103,6 @@ include_once 'templates/Sidebar.php';
 </div>
 
 <?php
-include_once 'templates/footer.php'
+include_once 'Templates/footer.php'
 
     ?>
